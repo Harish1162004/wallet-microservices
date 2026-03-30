@@ -1,0 +1,12 @@
+# Maven build
+target/
+
+# Compiled files
+*.class
+
+# IntelliJ
+.idea/
+
+# Logs
+*.log
+*.iml
